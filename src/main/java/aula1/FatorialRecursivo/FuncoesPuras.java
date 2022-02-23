@@ -1,3 +1,5 @@
+package aula1.FatorialRecursivo;
+
 import java.util.function.BiPredicate;
 
 public class FuncoesPuras {

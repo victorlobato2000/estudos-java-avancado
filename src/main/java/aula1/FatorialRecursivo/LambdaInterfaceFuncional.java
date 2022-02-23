@@ -1,7 +1,9 @@
+package aula1.FatorialRecursivo;
+
 public class LambdaInterfaceFuncional {
     public static void main(String[] args) {
         /** NO JAVA 8 SERIA:
-        Funcao colocarPrefixoSenhorNaString = new Funcao() {
+        aula1.FatorialRecursivo.Funcao colocarPrefixoSenhorNaString = new aula1.FatorialRecursivo.Funcao() {
             @Override
             public String gerar(String valor) {
                 return "Sr. "+ valor;

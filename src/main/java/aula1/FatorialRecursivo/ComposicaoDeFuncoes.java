@@ -1,3 +1,5 @@
+package aula1.FatorialRecursivo;
+
 import java.util.Arrays;
 
 public class ComposicaoDeFuncoes {
